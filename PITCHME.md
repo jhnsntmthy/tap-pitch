@@ -153,7 +153,7 @@ a *visual punch* to your slideshow presentations.
 
 <span style="color:gray; font-size:0.7em"><b>Animated GIFs</b> Work Too!</span>
 
-![Image-Relative](https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/octocat-daftpunkocat.gif)
+![Image-Absolute](https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/octocat-daftpunkocat.gif)
 
 <span style="color:gray; font-size:0.5em">the <b>Daftpunktocat-Guy</b> by [jeejkang](https://github.com/jeejkang)</span>
 
