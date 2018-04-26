@@ -178,9 +178,11 @@ Use high-resolution background images
 for *maximum impact*.
 
 +++?image=https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/victory.jpg
+<!-- .slide: data-background-size="cover" -->
 @title[V For Victory]
 
 +++?image=https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/127.jpg
+<!-- .slide: data-background-size="contain" -->
 @title[127.0.0.1]
 
 ---
