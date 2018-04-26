@@ -1,5 +1,5 @@
 @title[Introduction]
-@fa[arrow-down]
+## @fa[leaf]
 ## Cannabis Demo Content
 ##### <span style="font-family:'Lato', 'Open Sans'; font-weight:bold">Awesome sauce</span>
 
