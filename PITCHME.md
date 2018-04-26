@@ -45,7 +45,7 @@ The *same syntax* you use to create project
 
 @fa[arrow-down]
 
-+++?code=src/go/server.go&lang=golang&title=Source: Golang File
++++?code=sample/go/server.go&lang=golang&title=Source: Golang File
 
 @[1,3-6](Present code found within any repo source file.)
 @[8-18](Without ever leaving your slideshow.)
