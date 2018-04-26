@@ -1,13 +1,14 @@
 @title[Introduction]
-## The Kitchen Sink
-##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Git</span>Pitch Feature Tour</span>
+@fa[arrow-down]
+## Cannabis Demo Content
+##### <span style="font-family:'Lato', 'Open Sans'; font-weight:bold">Awesome sauce</span>
 
 ---
 @title[Theme Switcher]
 
 ## Slideshow Theme Switcher
-<span style="font-size:0.6em; color:gray">Available inside burger-menu.</span> |
-<span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
+>Available inside burger-menu. |
+Start switching themes right now!
 
 ---
 @title[Go Fullscreen]
@@ -507,5 +508,4 @@ Enable auto-slide with custom slide intervals, presentation looping, and RTL flo
 ---
 @title[Get The Word Out!]
 
-## GO FOR IT.
-## JUST ADD <span style="color:#e49436; text-transform: none">PITCHME.md</span> ;)
+## FIN.
