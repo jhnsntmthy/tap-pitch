@@ -143,7 +143,7 @@ a *visual punch* to your slideshow presentations.
 
 <span style="color:gray; font-size:0.7em">Inline Image at GitHub Repo <b>Relative URL</b></span>
 
-![Image-Relative](assets/images/octocat-de-los-muertos.jpg)
+![Image-Relative](assets/image/octocat-de-los-muertos.jpg)
 
 <span style="color:gray; font-size:0.5em">the <b>Octocat-De-Los-Muertos</b> by [cameronmcefee](https://github.com/cameronmcefee)</span>
 
