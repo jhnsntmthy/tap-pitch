@@ -9,6 +9,6 @@ theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 logo : assets/image/logo.png
 highlight : atom-one-light
-transition : none
+transition : slide-in fade-out
 published : true
 footnote : "GitPitch [ Netflix ] Presentation Template"
