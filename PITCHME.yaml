@@ -10,5 +10,6 @@ theme-override : assets/css/PITCHME.css
 logo : assets/image/logo.png
 highlight : atom-one-light
 transition : slide-in fade-out
+background-size: cover
 published : true
 footnote : "GitPitch [ Netflix ] Presentation Template"
